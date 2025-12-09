@@ -1,0 +1,3 @@
+MARCELA|I001|8.9|Quinto Semestre|20|Ingeniería en Sistemas|marce09@gmail.com|9353453623|IXTEPEC
+Oscar Lopez|A001|8.5|Quinto Semestre|20|Ingeniería en Sistemas|oscar@correo.com|9511234567|Oaxaca Centro
+Jose|I003|8.5|Quinto Semestre|21|Ingeniería en Sistemas|oscar@correo.com|9511234567|IXTALTEPEC

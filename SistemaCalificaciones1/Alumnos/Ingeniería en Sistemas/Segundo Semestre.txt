@@ -1,0 +1,1 @@
+DANIEL;M1;7.0;Segundo Semestre;20;Ingeniería en Sistemas;correo;telefono;direccion

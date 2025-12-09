@@ -1,0 +1,3 @@
+MARCOS|A001|9.0|Primer Semestre|20|Administración|platas984@gmail.com|926642512|IXTEPEC
+SAMUEL|A002|9.0|Primer Semestre|19|Administración|nsdyicgwe@gmail.com|9875321312|IXTEPEC
+MARIA|C002|8.0|Primer Semestre|20|Administración|omdufeoern@gmail.com|0798646|IXTEPEC

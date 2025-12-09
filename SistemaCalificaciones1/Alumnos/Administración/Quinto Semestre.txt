@@ -1,0 +1,2 @@
+Oscar Lopez|A001|8.5|Quinto Semestre|21|Ingeniería en Sistemas|oscar@correo.com|9511234567|Oaxaca Centro
+Daniel Torres|B020|9.2|Quinto Semestre|20|Administración|daniel@correo.com|9517778888|Oaxaca Etla
